@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jweng8900/jweng8900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring data scientist with a passion for deriving meaningful insights from medicine and media data. Currently, I'm enrolled in the TKH (The Knowledge House) fellowship, where I'm expanding my expertise in data science and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Tableau
+- **Tools:** Git, Jupyter Notebook
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/jianwengg/)
+- [Email](jweng8900@gmail.com)
+
+## Fun Fact
+
+When I'm not analyzing data, I love working out🏋.
+
+---
+
